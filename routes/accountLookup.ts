@@ -48,3 +48,4 @@ export function hashPassword (password: string): string {
 }
 
 // re-test v2: re-trigger XtndifyAI PR review (synchronize) to verify inline-comment anchoring.
+// re-test v4: verify inline anchoring after static-reporting skill fix.
